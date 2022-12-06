@@ -45,14 +45,16 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-
 ## Test the Search
+
 To run the search input all characters of the word you want to search.
-
-
 
 ## Failed to Implement
 
 Pagination - Not enough Documentation on the api online or on the offical site to help futher understand what to do.
 
 Search by culture
+
+## Ice and Fire API
+
+this application was done using the iceandfireapi,
